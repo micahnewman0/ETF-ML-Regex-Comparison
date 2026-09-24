@@ -3,7 +3,7 @@
 #difference in clusters
 #
 #Cluster 0 prioritizes high Year To Date returns
-#Expressing interest in __________ overall
+#Expressing interest in Technology overall
 #
 #Cluster 1 is everything between the other two with 
 #a more diverse array of ETFs. This may indicate that a 
