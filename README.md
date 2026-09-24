@@ -1,5 +1,3 @@
-# ETF-ML-Regex-Comparison
-
 # ETF Classification Project
 
 # Overview
