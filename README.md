@@ -1,5 +1,6 @@
 # ETF Classification Project
 Overall structure 
+
 Scraper -> Regex Classifier -> KMeans Clustering -> Regex & KMeans Comparison
 # Overview
 ________
