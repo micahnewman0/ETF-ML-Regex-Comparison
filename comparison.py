@@ -52,4 +52,7 @@ for data in compared_Data:
     if str(data[3]) != "nan":
         organized[data[1]][data[3]] = organized[data[1]].get(data[3], 0) + 1
 
+#.T means transpose of DataFrame allowing for easier storage
+organized = pd.DataFrame(organized).T
+organized.to_csv("Final_Compared_Data.csv", index=True)
 print(organized)
