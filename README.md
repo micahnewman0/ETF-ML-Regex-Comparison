@@ -1,5 +1,6 @@
 # ETF Classification Project
-
+Overall structure 
+Scraper -> Regex Classifier -> KMeans Clustering -> Regex & KMeans Comparison
 # Overview
 ________
 The aim of this project is to organize and analyze ETF data from ETFdb.com using regex and classification clustering.
