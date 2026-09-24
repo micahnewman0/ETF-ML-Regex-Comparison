@@ -1,8 +1,8 @@
 # ETF-ML-Regex-Comparison
 
-ETF Classification Project
+# ETF Classification Project
 
-Overview
+# Overview
 ________
 The aim of this project is to organize and analyze ETF data from ETFdb.com using regex and classification clustering.
 The 2 methods will then be compared to analyze the accuracy and dependability of the data provided. 
@@ -10,7 +10,7 @@ ETFs are first organized into categories based on their characteristics. Then cl
 This includes things such as assets under management, YTD return, trading volume, price, and daily price change.
 
 
-Project Goals
+# Project Goals
 _____________
 The project is designed to:
 
@@ -22,7 +22,7 @@ The project is designed to:
 * Make it easier to compare ETFs and identify relationships between them
 
 
-Data
+# Data
 ____
 The relevant data which this project uses is as previously mentioned,
 data that comes from ETFdb.com.
@@ -41,7 +41,7 @@ This data includes information such as:
 
 
 
-ETF Classification
+# ETF Classification
 __________________
 
 The ETFs are manually organized into categories using regular expressions. They are organized into the current categories listed below:
@@ -62,7 +62,7 @@ This allows the project to preserve multiple classifications instead of forcing 
 Allowing for more precise decision-making.
 
 
-Clustering
+# Clustering
 _____________
 
 The project also uses clustering to group ETFs based on their numerical characteristics.
@@ -72,7 +72,7 @@ The cluster number itself does not represent a specific category. It is simply a
 Interpretation of these groups is up to the user.
 
 
-Combining the Data
+# Combining the Data
 __________________
 
 The classification and clustering datasets are combined in comparison.py.
@@ -80,7 +80,7 @@ This makes it possible to analyze both the manually identified characteristics a
 This can improve decision making further by easing the comparison process for the user. 
 
 
-Technologies Used
+# Technologies Used
 _________________
 
 The project currently uses Python and several Python libraries, including:
@@ -90,7 +90,7 @@ The project currently uses Python and several Python libraries, including:
   The number of clusters used can be expanded if thought to be necessary. 
 
 
-Future Improvements
+# Future Improvements
 ___________________
 
 Some possible improvements for the project include:
